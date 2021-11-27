@@ -6,6 +6,8 @@
 # Then tag sources and push that to remote
 # 
 # When combined with pipeline triggers on commit will allow you to quickly create a release
+# 
+# Usage: ./release.sh "release message"
 ###
 
 # retrieve latest version from tags
